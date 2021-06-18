@@ -1,5 +1,5 @@
 {
-  "name": "react-simple-auto-complete",
+  "name": "react-easy-auto-complete",
   "version": "0.1.0",
   "description": "A simple, but flexible React auto-complete component with custom API support.",
   "main": "index.js",
@@ -15,7 +15,9 @@
     "api",
     "typeahead",
     "type-ahead",
-    "search"
+    "search",
+    "simple",
+    "easy"
   ],
   "author": "Jim Cooper",
   "license": "ISC",
